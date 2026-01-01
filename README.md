@@ -107,8 +107,8 @@ generated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
 Built by **NaveenHarshavarthini Ganesan**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/naveenharshavarthini-ganesan-4047a6311/)  
-🔗 [GitHub](https://github.com/Naveenharshavarthini)
+🔗 [https://www.linkedin.com/in/naveenharshavarthini-ganesan-4047a6311/](https://www.linkedin.com/in/naveenharshavarthini-ganesan-4047a6311/)  
+🔗 [https://github.com/Naveenharshavarthini](https://github.com/Naveenharshavarthini)
 
 
 
