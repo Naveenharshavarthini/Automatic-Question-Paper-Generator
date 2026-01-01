@@ -93,13 +93,13 @@ generated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ## 📸 Demo Screens
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](uploads/dashboard.png)
 
 ### ✏️ Add Question Page
-![Add Question](screenshots/add_question.png)
+![Add Question](uploads/add_question.png)
 
 ### 📄 Generated Question Paper
-![Generated Paper](screenshots/generated_paper.png)
+![Generated Paper](uploads/generated_paper.png)
 
 ---
 
